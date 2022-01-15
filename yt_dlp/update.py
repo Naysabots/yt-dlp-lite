@@ -38,7 +38,7 @@ def update_self(to_screen, verbose, opener):
     Returns whether the program should terminate
     """
 
-    JSON_URL = 'https://api.github.com/repos/yt-dlp/yt-dlp/releases/latest'
+    JSON_URL = 'https://api.github.com/repos/NaysaBots/yt-dlp-lite/releases/latest'
 
     def calc_sha256sum(path):
         h = hashlib.sha256()
