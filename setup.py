@@ -76,7 +76,7 @@ setup(
     description=DESCRIPTION,
     long_description=LONG_DESCRIPTION,
     long_description_content_type="text/markdown",
-    url="https://github.com/yt-dlp/yt-dlp",
+    url="https://github.com/NaysaBots/yt-dlp-lite",
     packages=packages,
     install_requires=REQUIREMENTS,
     project_urls={
